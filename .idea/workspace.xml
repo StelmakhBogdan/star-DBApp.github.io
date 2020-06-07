@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fe8aa19-492b-4dee-a2da-c53f0399f528" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/star-db/public/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/error-boundry/error-boundry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/error-boundry/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/error-button/error-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/error-button/error-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/error-button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/error-indicator/error-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/error-indicator/error-indicator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/error-indicator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/hoc-helpers/compose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/hoc-helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/hoc-helpers/with-child-function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/hoc-helpers/with-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/hoc-helpers/with-swapi-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/item-details/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/item-details/item-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/item-details/item-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/item-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/item-list/item-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/item-list/item-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/pages/login-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/pages/pages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/pages/people-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/pages/planets-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/pages/secret-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/pages/starships-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/random-planet/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/random-planet/random-planet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/random-planet/random-planet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/row/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/row/row.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/row/row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/spinner/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/spinner/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/spinner/spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/sw-components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/sw-components/item-lists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/sw-components/person-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/sw-components/planet-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/sw-components/starship-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/swapi-service-context/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/components/swapi-service-context/swapi-service-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/services/dummy-swapi-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star-db/src/services/swapi-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/star-db/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/star-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/star-db/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/star-db/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star-db/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/star-db" />
+  </component>
+  <component name="ProjectId" id="1Zezfah1zmGVYHfTn6kNE4fsuoB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEB develepoer\js\React\star-db\star-db\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fe8aa19-492b-4dee-a2da-c53f0399f528" name="Default Changelist" comment="" />
+      <created>1585214451331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585214451331</updated>
+      <workItem from="1585214452707" duration="4220000" />
+      <workItem from="1585287550852" duration="5593000" />
+      <workItem from="1585371227618" duration="8948000" />
+      <workItem from="1585380697257" duration="281000" />
+      <workItem from="1585381052628" duration="460000" />
+      <workItem from="1585405675440" duration="5636000" />
+      <workItem from="1585462308281" duration="25089000" />
+      <workItem from="1585545474334" duration="28210000" />
+      <workItem from="1585633795411" duration="22341000" />
+      <workItem from="1585730097338" duration="4623000" />
+      <workItem from="1585802990073" duration="18858000" />
+      <workItem from="1585898090647" duration="16868000" />
+      <workItem from="1585976882053" duration="11414000" />
+      <workItem from="1585988591425" duration="7831000" />
+      <workItem from="1586065906076" duration="11765000" />
+      <workItem from="1586148539089" duration="231000" />
+      <workItem from="1586681128713" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
